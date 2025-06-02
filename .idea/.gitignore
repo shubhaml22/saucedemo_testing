@@ -1,0 +1,32 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Java compiled files
+*.class
+
+# Log files
+*.log
+
+# IntelliJ IDEA settings
+.idea/
+*.iml
+
+# Build output
+out/
+target/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Maven dependencies (if using Maven wrapper)
+.mvn/
+!/.mvn/wrapper/maven-wrapper.jar
+
+# Eclipse (if ever opened in Eclipse)
+.project
+.classpath
+.settings/
+
+# VS Code (if ever used)
+.vscode/
